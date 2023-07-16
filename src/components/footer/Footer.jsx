@@ -7,7 +7,7 @@ import {SiYoutube} from 'react-icons/si'
 const Footer = () => {
   return (
     <footer>
-        <a href="/" className='footer__logo' style={{color:'white'}}>UG</a>
+        <a href="/" className='footer__logo' style={{color:'white'}}>RC</a>
         <ul className="permalinks">
 
           <li><a href="/">Home</a></li>
@@ -18,14 +18,14 @@ const Footer = () => {
         </ul>
 
         <div className="footer__socials">
-          <a href="https://www.linkedin.com/in/goelutkarsh/"><BsLinkedin /></a>
-          <a href="https://www.instagram.com/utkarsh_goel.10/"><FiInstagram /></a>
-          <a href="https://twitter.com/Utkarshgoel_10"><IoLogoTwitter /></a>
+          <a href="https://www.linkedin.com/in/rohit-choudhary13/"><BsLinkedin /></a>
+          <a href="https://www.instagram.com/_rohit.chaudhary__/"><FiInstagram /></a>
+          <a href="https://twitter.com/styyx09"><IoLogoTwitter /></a>
           <a href="https://www.youtube.com/channel/UCStJJmtgJnLoTKBRi9cOQSg"><SiYoutube /></a>
         </div>
 
     <div className="footer__copyright">
-      <small>&copy; Utkarsh Goel All rights reserved.</small>
+      <small>&copy; Rohit Choudhary All rights reserved.</small>
     </div>
 
     </footer>

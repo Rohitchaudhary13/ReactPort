@@ -6,7 +6,7 @@ export const web = [
     },
     {
       id: 2,
-      skill: 'Javascript',
+      skill: 'Javascript/TypeScript',
       level: 'Intermediate'
     },
     {
@@ -16,13 +16,13 @@ export const web = [
     },
     {
       id: 4,
-      skill: 'PHP',
+      skill: 'Redux',
       level: 'Experienced'
     },
     {
       id: 5,
       skill: 'NextJs',
-      level: 'Beginner'
+      level: 'Intermediate'
     },
     {
       id: 6,

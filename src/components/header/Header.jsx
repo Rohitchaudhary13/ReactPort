@@ -8,7 +8,7 @@ const Header = () => {
       <div className="container header__container">
         
         <h2>Hello I'm</h2>
-        <h1>Utkarsh Goel</h1>
+        <h1>Rohit Chaudhary</h1>
         <h1 className="text-light" style={{marginTop:'1rem',width:'60vw',marginLeft: 'auto',marginRight: 'auto'}}>
           A <span className="animate-charcter">Full Stack Developer</span> and a Software Engineer who enjoys
           turning problems and opportunities into simple interfaces through

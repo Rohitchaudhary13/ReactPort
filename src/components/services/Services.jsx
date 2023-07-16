@@ -4,22 +4,15 @@ import "./services.css";
 const projects = [
   {
     id:1,
-    name: "Salaah Mentor Community",
-    description: `We are developing a MERN stack alumni portal for our college, and I'm in charge of the frontend team of about eight developers.`,
-    stack: ["ReactJs", "React Router", "Strapi"],
+    name: "Salaah!",
+    description: `Developed and optimized a NextJS/TypeScript platform, improving website performance by 40%. Collaborated on a MERN-based Mini LinkedIn platform, enhancing code for better performance. Leveraged Clarity and Google Analytics for improved website ranking and technical SEO.`,
+    stack: ["NextJS", "TypeScript", "Sanity"],
   },
   {
     id:2,
-    name: "Bending Tech",
-    description: `I was responsible for the Figma UI replications and in addition I wrote SQL queries and PHP code to add CRUD functionality.`,
-    stack: ["PHP", "MySql", "Bootstrap", "JS"],
-  },
-  {
-    id:3,
-    name: "Edupop",
-    description:
-      "I worked on a frontend platform with a team. I worked as a React developer, focussing in design replication and dynamic routing.",
-    stack: ["ReactJs", "Chakra UI", "NextJs"],
+    name: "Asiana Times",
+    description: `Created bespoke WordPress themes and templates with HTML, CSS, and PHP, following coding standards. Assisted content creators and editors with WordPress support and training for effective content management.`,
+    stack: ["PHP", "Html/Css", "Bootstrap", "JS"],
   },
 ];
 

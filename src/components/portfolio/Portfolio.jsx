@@ -3,14 +3,17 @@ import "./portfolio.css";
 import IMG1 from "../../assets/images/portfolio1.jpg";
 import IMG4 from "../../assets/images/portfolio4.jpg";
 import IMG5 from "../../assets/images/fyb.png";
+import IMG6 from "../../assets/images/salaah.png";
+import IMG7 from "../../assets/images/step.png";
+import IMG8 from "../../assets/images/imagiser.jpg";
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Coin Finder (Crypto PWA)",
-    github: "https://github.com/utkarshgoel10/CryptoSearch",
-    demo: "https://mycrypto-finder.netlify.app/",
+    title: "Coinnect (Crypto PWA)",
+    github: "https://github.com/Rohitchaudhary13/HelloYajra/",
+    demo: "https://hello-yajra.vercel.app/",
   },
   {
     id: 2,    
@@ -25,6 +28,27 @@ const data = [
     title: "FYB (Freelance)",
     github: "https://github.com/utkarshgoel10/FybHome",
     demo: "https://utkarshgoel10.github.io/FybHome/",
+  },
+  {
+    id: 4,
+    image: IMG6,
+    title: "Salaah (Intern Project)",
+    github: "https://github.com/salaah-community/Salaah/",
+    demo: "https://www.salaah.org.in/",
+  },
+  {
+    id: 5,
+    image: IMG7,
+    title: "Talent Evaluation Portal",
+    github: "https://github.com/Rohitchaudhary13/",
+    demo: "https://step-dh23.onrender.com/",
+  },
+  {
+    id: 6,
+    image: IMG8,
+    title: "Imagiser (PWA)",
+    github: "https://github.com/Rohitchaudhary13/Imagiser",
+    demo: "https://imagiser.vercel.app/home",
   },
 ];
 
